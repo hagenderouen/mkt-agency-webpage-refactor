@@ -1,2 +1,2 @@
 # mkt-agency-webpage-refactor
-Accessibility refactoring for marketing agency
+Accessibility refactoring for marketing agency.
